@@ -1,1 +1,21 @@
-{}
+{
+  "Bushraatiya1429": {
+    "username": "Bushraatiya1429",
+    "password": "xLr1T_b4TAKOk6j",
+    "student_type": "علمي",
+    "telegram_user_id": "7598702645",
+    "telegram_username": "Bushraatiya1429",
+    "telegram_first_name": "بشرى",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_40.jpg",
+    "session_id": "07eca213-ff76-4af0-b484-177d69a9168a",
+    "created_at": "2026-05-10T17:47:12.470938",
+    "verified": true,
+    "last_login": "2026-05-10T21:03:18.768828",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english"
+    ],
+    "server_num": 24
+  }
+}
