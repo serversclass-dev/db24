@@ -17,5 +17,33 @@
       "english"
     ],
     "server_num": 24
+  },
+  "fatima": {
+    "username": "fatima",
+    "password": "TV4B356z_C394@e",
+    "student_type": "علمي",
+    "telegram_user_id": "7117265079",
+    "telegram_username": "oitsfatima",
+    "telegram_first_name": "𝐅𝐚𝐭𝐨𝐨𝐦",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_75.jpg",
+    "session_id": "c4dcc008-3dd3-4b98-a64b-907d1f176a70",
+    "created_at": "2026-05-12T11:12:19.710443",
+    "verified": true,
+    "last_login": "2026-05-12T11:13:29.035770",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "math",
+      "statistics",
+      "it",
+      "physics_electric",
+      "chemistry",
+      "biology",
+      "physics_mechanic",
+      "linguistic_studies",
+      "literary_studies",
+      "english"
+    ],
+    "server_num": 24
   }
 }
